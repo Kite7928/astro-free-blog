@@ -1,7 +1,7 @@
 ## 👏🏻 Introduction
 
 This is a minimalist, beautiful, responsive blogging program written in Astro.
-添加描述
+添加描述,准备试试直接deploy
 ## Preview
 
 [https://astro-blog.qum.cc/](https://astro-blog.qum.cc/)
