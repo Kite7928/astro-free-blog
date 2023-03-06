@@ -1,9 +1,9 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Golang net/http & HTTP Serve 源码分析'
-pubDate: 2035-06-01
+pubDate: 2023-03-06
 description: '很多Go web框架都通过封装 net/http 来实现核心功能，因此学习 net/http 是研究 Gin等框架的基础。'
-author: 'Austin'
+author: 'kite'
 cover:
     url: 'https://lookcos.cn/usr/uploads/2022/04/2067928922.png'
     square: 'https://lookcos.cn/usr/uploads/2022/04/2067928922.png'
