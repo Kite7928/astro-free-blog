@@ -5,8 +5,8 @@ pubDate: 2023-03-06
 description: '很多Go web框架都通过封装 net/http 来实现核心功能，因此学习 net/http 是研究 Gin等框架的基础。'
 author: 'kite'
 cover:
-    url: 'https://lookcos.cn/usr/uploads/2022/04/2067928922.png'
-    square: 'https://lookcos.cn/usr/uploads/2022/04/2067928922.png'
+    url: 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
+    square: 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
     alt: 'cover'
 tags: ["源码研究", "标准库", "golang", "gin"]
 theme: 'light'
