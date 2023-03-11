@@ -9,7 +9,7 @@ cover:
     square: 'https://p4.itc.cn/q_70/images03/20230306/d84af3612fd04f65b0d53b10254b14da.jpeg?resize=1&w=1920'
     alt: 'cover'
 tags: ["财经", "金融", "广播与实况", "股市"]
-theme: 'light'
+theme: 'dark'
 featured: false
 ---
 “在继续应对挑战性环境的同时，我们很自豪能推出迄今最出色的产品和服务。与以往一样，我们继续致力于放眼长远，在一切行动中贯彻我们的价值观。”Apple CEO Tim Cook 表示， “在 12 月季度，我们达成了一项里程碑式的成就：我们很高兴地宣布，我们的活跃设备现有使用量已经突破 20 亿大关。”
